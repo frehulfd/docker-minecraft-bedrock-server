@@ -11,6 +11,10 @@
       "2": "adventure"
     }
   },
+  "enable-query": {
+    "env": "ENABLE_QUERY",
+    "allowed": ["true", "false"]
+  },
   "force-gamemode": {
     "env": "FORCE_GAMEMODE",
     "allowed": ["true", "false"]
